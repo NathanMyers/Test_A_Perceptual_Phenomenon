@@ -5,10 +5,10 @@ I learned a little bit about the experiment, created a hypothesis regarding the 
 
 ## How to use:
 The project has 4 files:
-* stroop.html: Final Report
-* stroop.ipynb: This is the main file where my work was performed the project.
-* stroopdata.csv: The project dataset.
-* Project_instructions.md: The project instructions.
+* Test_a_Perceptual_Phenomenon.html: Final Report
+* Test_a_Perceptual_Phenomenon.ipynb: This is the main file where my work was performed the project.
+* Test_a_Perceptual_Phenomenon.csv: The project dataset.
+* Test_a_Perceptual_Phenomenons.md: The project instructions.
 
 ### To view results 
 Open up a browser window or tab. Click file then open. Navigate to the folder containing the project files and double click stroop.html .
